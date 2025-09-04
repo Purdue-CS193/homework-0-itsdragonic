@@ -1,3 +1,10 @@
+# Fredrick Zawislak's First CS193 Homework
+- I like that we're learning the fundamentals
+- Gives a good foundation, especially those like myself taking CS180
+- Nice and helpful people!
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
